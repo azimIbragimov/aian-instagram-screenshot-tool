@@ -16,4 +16,5 @@ Set the croping box where the picture will be taken in `crop_box` field
 `
 python main.py
 `
-
+## Sample Results
+Check sample results in `photos` folder
