@@ -1,0 +1,5 @@
+{
+	"time_format": "%H-%M-%S_%d-%m-%Y",
+	"storage_folder": "photos",
+	"crop_box": [1100, 300, 3200, 2100]
+}
