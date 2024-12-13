@@ -17,4 +17,6 @@ Set the croping box where the picture will be taken in `crop_box` field
 python main.py
 `
 ## Sample Results
-Check sample results in `photos` folder
+Check sample results in `photos` folder or in the picture below:
+![alt text](https://github.com/azimIbragimov/aian-instagram-screenshot-tool/blob/main/photos/14-44-05_13-12-2024.png)
+
